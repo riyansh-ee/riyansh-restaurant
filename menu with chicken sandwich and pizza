@@ -1,0 +1,51 @@
+
+print("hello")
+print("PUT THE FRIES IN THE BAG")
+print("I DONT KNOW HOW")
+print("just cook already hamburger :(")
+user = input()#answer hello for a cool story answer bye to be stupid
+if user == ("hello"):
+  print("what would you like")
+  print("BILLY PUT THE FRIES IN THE BAG")
+  print("HOW")
+  print("pls cook hamburger im begging ;(")
+  print("sorry, what would you like?")
+if user == ("bye"):
+  print("cya")
+user2 = input()#answer chicken sandwich or pizza ;)
+if user2 == ("pizza"):
+  print("pep or chez")
+if user2 == ("bye"):
+  print("vro cya")
+userp = input()
+if userp == ("pep"):
+  print("that sucks, gimme 50 dollars")
+  print("cya")
+if userp == ("chez"):
+  print("nice")
+  print("50 dollars pls")
+  print("cya")
+if userp == ("bye"):
+  print("ok cya bruv")
+if user2 == ("chicken sandwich"):
+  print("spicy or regular?")
+user3 = input()
+if user3 == ("spicy"):
+  print("nice, with chez?")
+if user3 == ("bye"):
+  print("ok buddy bye bye ig")
+user4 = input()
+if user3 == ("regular"):
+  print("ok")
+if user4 == ("yes"):
+  print("10 thousand dollars pls")
+  print("thanks for coming")
+if user4 == ("bye"):
+  print("almost done man. next time maybe. cya")
+if user4 == ("no"):
+  print("ok that will be 5 cents")
+  print("thanks lolz cya")
+print("I DID I PPUT THE FRIES IN THE BAG")
+print("THANK THE LORD BILLY YOU HAVE 50 MORE ORDERS")
+print(" :I")
+print("hamburger cooked :)")
